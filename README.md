@@ -1,4 +1,4 @@
-<div tyle="background:white;">
+<div style="background:white;">
     <h1 align="center">Hi 👋, I'm Pablo Jiménez</h1>
 <h3 align="center">A passionate developer from Chile</h3>
 
