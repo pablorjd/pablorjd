@@ -16,9 +16,10 @@
         </a>
     </p>
 
+    <hr/>
     <h3 align="center">Languages and Tools:</h3>
-    <div>
-        <a style="margin: 0 20px;" href="https://angular.io" target="_blank" rel="noreferrer">
+    <div align="">
+        <a href="https://angular.io" target="_blank" rel="noreferrer">
             <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/>
         </a>
         <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
