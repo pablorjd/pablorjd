@@ -1,45 +1,24 @@
-<div style="background:white !important;">
-    <h1 align="center">Hi 👋, I'm Pablo Jiménez</h1>
-    <h2 align="center">A passionate developer from Chile</h2>
+# 👋 ¡Hola! Soy Pablo Jiménez
 
-- 🔭 I’m currently working on **Santander Bank**
+## 📊 Sobre mí
+- 💼 Trabajo en **Banco Santander Chile** como desarrollador, y actualmente estoy enfocándome en mejorar mis habilidades en desarrollo móvil con **Kotlin**.
+- 🎓 Me gusta aprender y actualizarme en tecnologías y frameworks modernos.
+- 🌱 Actualmente, me encuentro en un proceso de aprendizaje de desarrollo móvil nativo y frameworks híbridos.
 
-- 🌱 I’m currently learning **Kotlin Develop App**
+## 💻 Tecnologías que manejo
+- **Lenguajes:** ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow) ![TypeScript](https://img.shields.io/badge/TypeScript-blue) ![PHP](https://img.shields.io/badge/PHP-777bb4) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5)
+- **Frameworks y Librerías:** ![Angular](https://img.shields.io/badge/Angular-red) ![Ionic](https://img.shields.io/badge/Ionic-3880FF)
+- **Bases de datos:** ![MSSQL](https://img.shields.io/badge/MSSQL-blueviolet) ![MySQL](https://img.shields.io/badge/MySQL-4479A1) ![SQLite](https://img.shields.io/badge/SQLite-003B57)
+- **Otras herramientas:** ![Docker](https://img.shields.io/badge/Docker-2496ED) ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FCA121)
 
-    <h3 align="left">Connect with me:</h3>
-    <p align="left">
-        <a href="https://twitter.com/pablojimenezd" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pablojimenezd" height="30" width="60" />
-        </a>
-        <a href="https://linkedin.com/in/https://www.linkedin.com/in/pablo-jim%c3%a9nez-dinamarca-8900b3a9/" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-jim%c3%a9nez-dinamarca-8900b3a9/" height="30" width="60" />
-        </a>
-    </p>
+## 🚀 Proyectos Destacados
+1. **[Nombre del Proyecto 1](#)**: Breve descripción del proyecto y las tecnologías utilizadas.
+2. **[Nombre del Proyecto 2](#)**: Breve descripción del proyecto y las tecnologías utilizadas.
 
-    <hr/>
-    <h3 align="center">Languages and Tools:</h3>
-    <div align="">
-        <a href="https://angular.io" target="_blank" rel="noreferrer">
-            <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/>
-        </a>
-        <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="60" height="60"/>
-        </a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-        </a>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>
-        </a>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
-        </a>
-        <a style="padding: 10px;" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
-        </a>
-    </div>
+## 🌐 Conéctate conmigo
+- **LinkedIn:** [linkedin.com/in/pablojimenez](https://linkedin.com/in/pablojimenez) _(reemplazar con el enlace correcto)_
+- **Email:** pablo.jimenez@correo.com _(reemplazar con tu email real)_
 
-</div>
+## 📈 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=pablojimenez&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=pablojimenez&layout=compact&theme=radical)
