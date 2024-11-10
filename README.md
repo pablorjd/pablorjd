@@ -17,10 +17,7 @@
     </p>
 
     <h3 align="center">Languages and Tools:</h3>
-    <br/>
-    <br/>
-    <br/>
-    <p align="left">
+    <div>
         <a style="margin: 0 20px;" href="https://angular.io" target="_blank" rel="noreferrer">
             <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/>
         </a>
@@ -30,20 +27,8 @@
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
         </a>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
-        </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-        </a>
-        <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/>
-        </a>
-        <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="60"/>
-        </a>
-        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-            <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/>
         </a>
         <a href="https://www.php.net" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>
@@ -51,9 +36,9 @@
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
         </a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <a style="padding: 10px;" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
         </a>
-    </p>
+    </div>
 
 </div>
